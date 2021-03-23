@@ -1,0 +1,150 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the quickconversions.phelion package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: quickconversions.phelion\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-11 01:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: NORWEGIAN <LL@li.org>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../qml/Main.qml:31 QuickConversions.desktop.in.h:1
+msgid "Quick Conversions"
+msgstr "Konverteringer"
+
+#: ../qml/Main.qml:139
+msgid "Centigrade To Fahrenheit"
+msgstr "Celsius til Fahrenheit"
+
+#: ../qml/Main.qml:139
+msgid "Centimetres To Inches"
+msgstr "Centimeter til Tommer"
+
+#: ../qml/Main.qml:139 ../qml/Main.qml:141 ../qml/Main.qml:1226
+msgid "Colour Scheme"
+msgstr "Fargevalg"
+
+#: ../qml/Main.qml:139
+msgid "Kilograms To Pounds"
+msgstr "Kilogram til Pund"
+
+#: ../qml/Main.qml:139
+msgid "Kilometres To Miles"
+msgstr "Kilometer til Miles"
+
+#: ../qml/Main.qml:139 ../qml/Main.qml:141 ../qml/Main.qml:520
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: ../qml/Main.qml:141
+msgid "Fahrenheit To Centigrade"
+msgstr "Fahrenheit til Celsius"
+
+#: ../qml/Main.qml:141
+msgid "Inches To Centimetres"
+msgstr "Tommer til Centimeter"
+
+#: ../qml/Main.qml:141
+msgid "Miles To Kilometres"
+msgstr "Miles til Kilometer"
+
+#: ../qml/Main.qml:141
+msgid "Pounds To Kilograms"
+msgstr "Pund til Kilogram"
+
+#: ../qml/Main.qml:371
+msgid "Temperature (°C/°F)"
+msgstr "Temperatur (°C/°F)"
+
+#: ../qml/Main.qml:408
+msgid "Weight (Kg/Lbs)"
+msgstr "Vekt (Kg/Lbs)"
+
+#: ../qml/Main.qml:445
+msgid "Height (Cm/Inches)"
+msgstr "Høyde (Cm/Tommer)"
+
+#: ../qml/Main.qml:482
+msgid "Distance (Km/Miles)"
+msgstr "Avstand (Km/Miles)"
+
+#: ../qml/Main.qml:1251
+msgid "Temperature"
+msgstr "Temperatur"
+
+#: ../qml/Main.qml:1274
+msgid "°C Max"
+msgstr "°C Maks"
+
+#: ../qml/Main.qml:1321
+msgid "°C Min"
+msgstr "°C Min"
+
+#: ../qml/Main.qml:1367
+msgid "°F Max"
+msgstr "°F Maks"
+
+#: ../qml/Main.qml:1413
+msgid "°F Min"
+msgstr "°F Min"
+
+#: ../qml/Main.qml:1452
+msgid "Weight"
+msgstr "Vekt"
+
+#: ../qml/Main.qml:1475
+msgid "Kg Max"
+msgstr "Kg Maks"
+
+#: ../qml/Main.qml:1522
+msgid "Lbs Max"
+msgstr "Lbs Maks"
+
+#: ../qml/Main.qml:1568 ../qml/Main.qml:1762 ../qml/Main.qml:1916
+msgid "0.5 Step Size"
+msgstr "0,5 trinns størrelse"
+
+#: ../qml/Main.qml:1615
+msgid "Show Stone"
+msgstr "Vis Stone"
+
+#: ../qml/Main.qml:1650
+msgid "Height"
+msgstr "Høyde"
+
+#: ../qml/Main.qml:1672
+msgid "Cm Max"
+msgstr "Cm Maks"
+
+#: ../qml/Main.qml:1717
+msgid "Inches Max"
+msgstr "Tommer Maks"
+
+#: ../qml/Main.qml:1802
+msgid "Distance"
+msgstr "Avstand"
+
+#: ../qml/Main.qml:1824
+msgid "Km Max"
+msgstr "Km Maks"
+
+#: ../qml/Main.qml:1870
+msgid "Miles Max"
+msgstr "Miles Max"
+
+#: ../qml/Main.qml:1985
+msgid "Background"
+msgstr "Bakgrunn"
+
+#: ../qml/Main.qml:2120
+msgid "Text"
+msgstr "Tekst"
